@@ -299,19 +299,19 @@ Use a single TCP connection for traffic in both directions.
 
 #### [Socket.IO](https://socket.io/): Realtime JavaScript framework
 
-    - HTTP long-poll first
-    - Later upgrade to WebSocket if possible
-    - Handles disconnects
+- HTTP long-poll first
+- Later upgrade to WebSocket if possible
+- Handles disconnects
 
 ---
 
 #### [SockJS](http://sockjs.org/): WebSocket emulation
 
-    - WebSocket-like API even without WebSocket transport
-    - Focus on cross-browser compatibility
-    - Try native WebSocket first
-    - Automatically fall back to other transports (WS > streaming > polling)
-    - Multiple languages (JavaScript, Python, Java, Scala, Ruby, Go, ...)
+- WebSocket-like API even without WebSocket transport
+- Focus on cross-browser compatibility
+- Try native WebSocket first
+- Automatically fall back to other transports (WS > streaming > polling)
+- Multiple languages (JavaScript, Python, Java, Scala, Ruby, Go, ...)
 
 ---
 
@@ -322,7 +322,7 @@ Use a single TCP connection for traffic in both directions.
 * Twitter: [@VipulMathur](https://twitter.com/VipulMathur)
 * LinkedIn: https://in.linkedin.com/in/VipulMathur
 
-### Links to this material
+#### Links to this material
 
 - Slideshow: https://gitpitch.com/VipulMathur/rfc-meetup-sep2017?grs=gitlab
 - Source: https://gitlab.com/VipulMathur/rfc-meetup-sep2017
