@@ -317,8 +317,6 @@ Use a single TCP connection for traffic in both directions.
 
 # Thank You!
 
-## Open Discussion
-
 ### My Coordinates
 
 * Twitter: [@VipulMathur](https://twitter.com/VipulMathur)
@@ -326,6 +324,5 @@ Use a single TCP connection for traffic in both directions.
 
 ### Links to this material
 
-I used [GitPitch](https://gitpitch.com) to prepare slides for the meetup. Use the following links to get access to the slides:
 - Slideshow: https://gitpitch.com/VipulMathur/rfc-meetup-sep2017?grs=gitlab
 - Source: https://gitlab.com/VipulMathur/rfc-meetup-sep2017
