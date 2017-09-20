@@ -323,6 +323,5 @@ Use a single TCP connection for traffic in both directions.
 * LinkedIn: https://in.linkedin.com/in/VipulMathur
 
 #### Links to this material
-
-- Slideshow: https://gitpitch.com/VipulMathur/rfc-meetup-sep2017?grs=gitlab
-- Source: https://gitlab.com/VipulMathur/rfc-meetup-sep2017
+- Slideshow: https://gitpitch.com/VipulMathur/rfc-meetup-sep2017
+- Source: https://github.com/VipulMathur/rfc-meetup-sep2017
