@@ -10,6 +10,6 @@ We discussed the following RFCs:
 ## Slides
 
 I used [GitPitch](https://gitpitch.com) to prepare slides for the meetup. Use the following links to get access to the slides:
-- [Slideshow](https://gitpitch.com/VipulMathur/rfc-meetup-sep2017/master?grs=gitlab)
-- [Source](https://gitlab.com/VipulMathur/rfc-meetup-sep2017/)
+- [Slideshow](https://gitpitch.com/VipulMathur/rfc-meetup-sep2017)
+- [Source](https://github.com/VipulMathur/rfc-meetup-sep2017)
 
